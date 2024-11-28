@@ -2,7 +2,7 @@
 
 This tool is inspired by Blender's equivalent. It allows you to apply a pattern to selected components (vertices, edges, faces, etc.) based on the steps of selected and deselected faces. 
 
-## Features
+## ✨ Features
 - **Works with every components**:
 The script detects which of faces, vertices or edges are selected
 - **Simple Use**:  
@@ -14,7 +14,7 @@ The script detects which of faces, vertices or edges are selected
 - **Original Selection Retention**:  
   The tool preserves the original selection, ensuring that it remains unaffected while applying the pattern.
 
-## Usage
+## 📖 Usage
 
 1. **Select Components**:  
    Choose a component type (e.g., face, edge, or vertex) as the base selection.
@@ -29,7 +29,7 @@ The script detects which of faces, vertices or edges are selected
 
 > **Note**: The tool keeps the original selection intact, so you can modify the pattern without altering your initial selection.
 
-## Installation
+## 🚀 Installation
 
 1. **Download the Tool**
    - Place the `CheckerDeselectTool` script file in your Maya user scripts folder:
@@ -43,7 +43,18 @@ The script detects which of faces, vertices or edges are selected
 cdt.open_checker_select_ui()`
 
 
-## License
+## 📜 License
 
 This tool is free to use, is used in another script please credit Hadrien Clement and put a link to my github https://github.com/HadrienEcly. 
 If it is used as part of a paid script please reach out to me first.
+
+## 🐛 Bug and Requests
+
+If you encounter any bugs or have ideas for new features, feel free to get in touch!  
+Your feedback is highly valued and helps improve this project.
+
+- **Report a bug**: Please open an issue with a clear description of the problem. Screenshots and steps to reproduce are always appreciated.  
+- **Suggest a feature**: Got an idea? Let me know by opening an issue or reaching out directly.  
+
+Thank you for contributing to the project's success!
+  
